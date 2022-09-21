@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px) {
   .main_title {
-    font-size: 50px !important;
+    font-size: 40px !important;
   }
   .main_prg {
     font-size: 20px !important;
@@ -51,4 +51,15 @@
 .main_btn a {
   color: #fff;
   text-decoration: none;
+}
+
+.line {
+  width: 40px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: #999;
+}
+
+.gradient_bg {
+  background: linear-gradient(287.15deg, #450e4b 0%, #3c0c41 24.48%, rgba(207, 0, 99, 0) 100%), #cf0063;
 }
